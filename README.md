@@ -8,5 +8,5 @@ A lightweight, terminal-based flashcard and quiz application written in C. It re
 - **Robust Input Handling:** Cleans the input buffer explicitly using fgetc and validates user choices to reject invalid answers.
 - **Score Tracking:** Evaluates performance and displays a final percentage breakdown with custom feedback.
 
-## File Format (`flashcard_questions.txt`)
+## File Format (flashcard_questions.txt)
 The program expects an external text file structured the way the example file is to work properly.
