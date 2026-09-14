@@ -1,0 +1,21 @@
+3
+Q: What is 1 + 1?
+a) 5
+b) 2
+c) 11
+d) 46
+A: 2
+
+Q: What color is grass?
+a) purple
+b) orange
+c) yellow
+d) green
+A: green
+
+Q: Where is UBC located?
+a) Vancouver
+b) California
+c) Cape Town
+d) Shanghai
+A: Vancouver
